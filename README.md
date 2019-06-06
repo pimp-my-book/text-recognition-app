@@ -47,9 +47,13 @@ This is a basic [React Native](https://facebook.github.io/react-native/) applica
     $ awsmobile init
 
 *Source Directory* - ext_code
+
 *Distribution Directory* - build
+
 *Build Command* - npm run-script build
+
 *Start Command* - npm run-script start
+
 *AWS Mobile project name* - **choose-a-name**
 
 Above details required for later use👨🏾‍🏫
