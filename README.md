@@ -77,6 +77,7 @@ Permissions Added!!!🚀
 **The following fields need to be changed in order to align with the region you have chosen to use when setting up your backend:**
 
 endpoints: "*endpoint matching the region chosen in backend setup*"
+
 region: "*region chosen in backend setup*"
 
 ## 3. Ready to Run
